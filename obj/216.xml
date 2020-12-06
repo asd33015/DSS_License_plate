@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>216.jpg</filename>
+	<path>Z:\TA\DSS\Palsy exercise\labelimg\windows_v1.5.0\plate\train\216.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>893</xmin>
+			<ymin>489</ymin>
+			<xmax>936</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>License_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1086</xmin>
+			<ymin>443</ymin>
+			<xmax>1115</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>
